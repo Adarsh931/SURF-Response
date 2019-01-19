@@ -1,9 +1,8 @@
-I have been given two plasmid sequence, so, using addgene plasmid map maker I can directly find out what are the components/protein is in it is.
-After getting plasmid map,
-1. Interesting features/genes: TEM beta lactamase gene as a ampicillin resistant marker gene
-                               lactose operon oppressor
-                               red fluorescent gene
-                               green fluorescent gene 
+I have been given two plasmid sequence, so, using addgene plasmid map maker I can directly find out what are the components/protein is in it is. From plasmid map, it was evident that contained 4 proteins and after doing BLAST following result was concluded. 
+1. Interesting features/genes: - TEM beta lactamase gene as a ampicillin resistant marker gene
+                               - lactose operon oppressor
+                               - red fluorescent gene
+                               - green fluorescent gene (already was shown in 
 
                                
                                
