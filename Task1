@@ -1,13 +1,14 @@
 I have been given two plasmid sequence, so, using addgene plasmid map maker I can directly find out what are the components/protein is 
 in it. From plasmid map, it was evident that contained 4 proteins and after doing BLAST following result was concluded. 
 1. Interesting features/genes: - TEM beta lactamase gene as a ampicillin resistant marker gene
-                               - lactose operon oppressor gene
+                               - lactose operon repressor gene
                                - red fluorescent gene
                                - green fluorescent gene
-My plasmid contains lactose operon oppressor gene, which will not be present in other cells if not contained my plasmid of interest.
+Primers are designed specific for lactose operon oppressor gene
 2. Forward and reverse primer (length 22 nt) can chosen from any position in between, typically fragment length should be around 800 nt. 
    5' GAGATATCCGCACCAACGCGCA 3' (forward primer) (sequence taken from 5'-3' strand, coding strand)
    5' TATTCTCTGTGGCCGTATGAGA 3' (reverse primer) (sequence taken from 3'-5' strand, non-coding strand)   
 Further, did multiple sequence alignment to check if forward primer sequence is present in just expected region and reverse primer 
 sequence is absent.
+
                                
