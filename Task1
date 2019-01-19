@@ -8,9 +8,9 @@ in it. From plasmid map, it was evident that it have 4 proteins and after doing 
 Primers are designed specific for GFP gene with 3' end ending with G/C 
 2. Forward primer (19 nt) should be choosen from  5' CGCCGCAAACCCCGCCCCTGACAGGGCGGGGTTTCGCCGC 3'and reverse primer (19 nt) 
 can chosen from any position in GFP gene region, typically fragment length should be around 700 nt. 
-Difficulty I faced in this was how to design forward primer. Out of 40 nucleotide, 28 nt was already found in control plasmid sequence while
-remaining 12 nt, 6 on each end, was found in test plasmid only. So, if I cannot choose primer from middle of this sequence, it will be 
-better to choose primer such that 3' end of primer is non binding to control plasmid sequence.  
+Difficulty I faced in this was how to design forward primer. Out of 40 nucleotide, 28 nt was already found in control plasmid sequence 
+while remaining 12 nt, 6 on each end, was found in test plasmid only. So, if I cannot choose primer from middle of this sequence, it will 
+be better to choose primer such that 3' end of primer is non binding to control plasmid sequence.  
    5' CAGGGCGGGGTTTCGCCGC 3' (forward primer) (sequence taken from 5'-3' strand, coding strand)
    5' CCATGCCATGTGTAATCCC 3' (reverse primer) (sequence taken from 3'-5' strand, non-coding strand)   
 Further, did multiple sequence alignment to check if forward primer sequence is present in just expected region and reverse primer 
