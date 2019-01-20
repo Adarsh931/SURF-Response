@@ -1,10 +1,11 @@
 I have been given two plasmid sequence, so, using addgene plasmid map maker I can directly find out what are the components/protein is 
 in it. From plasmid map, it was evident that it have 4 proteins and after doing BLAST following results were concluded. 
-1. Interesting features/genes: - TEM beta lactamase gene as a ampicillin resistant marker gene
+1. Interesting features/genes: - TEM-116 beta lactamase gene as a ampicillin resistant marker gene
                                - lactose operon repressor gene
                                - red fluorescent gene
                                - green fluorescent gene
-    PDB structure file is attached in this repository.
+    PDB file is attached in this repository (TEM-116 structure is not know yet, so I, using Modeller, did homology modelling taking TEM-1
+    as a reference).
 Primers are designed specific for GFP gene with 3' end ending with G/C 
 2. Forward primer (19 nt) should be choosen from  5' CGCCGCAAACCCCGCCCCTGACAGGGCGGGGTTTCGCCGC 3'and reverse primer (19 nt) 
 can chosen from any position in GFP gene region, typically fragment length should be around 700 nt. 
