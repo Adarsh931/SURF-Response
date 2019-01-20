@@ -28,10 +28,10 @@ control plasmid there will be no band, apart from primer dimers.
 5. i)  Ampicillin resistant marker gene and origin of replication is pBR322. Ampicillin should be used as an antibiotic for positive 
        selection.
   ii)  RFP and GFP is used a reporter protein here. Its signal can be measured by measuring the fluorescence intensity using flow 
-       cytometry. (ref: https://link.springer.com/protocol/10.1007%2F978-1-4939-0799-1_3)
+       spectrometry.
  iii)  placI is the inducible promoter used here. IPTG (analog of allolactose) can be used as an inducer chemical.
   iv)  A plot should be made between GFP/RFP signal level and IPTG concentration.
        When IPTG is present in system, then signal level of GFP/RFP should be very less, while when IPTG is absent or very less in system 
        then GFP/RFP signal level should be high.
        
-# Task1
+# Task2
