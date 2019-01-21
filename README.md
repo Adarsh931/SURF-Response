@@ -33,14 +33,21 @@ I am more comfortable using R for data visualization and analysis, hence, did th
 
 2. Image segmentation techniques can be used to measure the areas at different times and thus time traces of the pulsatile activity. Edge detection using computer vision and other segmentation algorithms can be used, apart from that we can use various deep learning techniques. 
 
-3. I have upload jupyter notebook named as timeTraces. Plot has been made betweeen area vs frame and area vs time.
+3. I have upload jupyter notebook named as timeTraces. Plot has been made betweeen area vs frame and area vs time. Gaps in oscillation was found.
 
-4. In this, I faced difficulty in finding peak's coordinate. 
-
-5.
-
-6. 
+4 & 5. In this, I faced difficulty in finding peak's coordinate,but I kept trying and at the end I got success. Jupitype file named as 
+       IPI_code.ipynb is in repository.
+       
 Based on the plots obtained, it is clear that Jellyfish sleep. Taking plot 1 as an example, we can see continous pulses during daytime, but during night time gaps in pulsation were observed which shows quiescence stage. Also, number of pulses were more
-during daytime as compared to nighttime . Similaraly, these results can be extrapolated for other jellyfish.
+during daytime as compared to nighttime . Similaraly, these results can be extrapolated for other jellyfishes.
+
+Time trace followed Autoregression time series as there was seasonility and no trend was observed. Also, y(t+1) was found to depend on 
+previous values. Its algorithmic implementation is already shown in IPI_code.ipynb file. From the plot between y(t+1) and y(t) we can see that there is some correlatation (autocorrelation), hencce, autoregression.
+
+I also have uploaded all the results file in folder named Results.
+
+
+
+
 
 
