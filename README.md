@@ -35,7 +35,7 @@ I am more comfortable using R for data visualization and analysis, hence, did th
 
 3. I have upload jupyter notebook named as timeTraces. Plot has been made betweeen area vs frame and area vs time. Gaps in oscillation was found.
 
-4 & 5. In this, I faced difficulty in finding peak's coordinate,but I kept trying and at the end I got success. Jupitype file named as 
+4 & 5. In this, I faced difficulty in finding peak's coordinate, but I kept trying and at the end I got success. Jupitype file named as 
        IPI_code.ipynb is in repository.
        
 Based on the plots obtained, it is clear that Jellyfish sleep. Taking plot 1 as an example, we can see continous pulses during daytime, but during night time gaps in pulsation were observed which shows quiescence stage. Also, number of pulses were more
