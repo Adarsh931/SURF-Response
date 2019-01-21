@@ -24,8 +24,13 @@ So, a band of size around 700 nt will be observed in agarose gel in case of cell
   iv)  A plot should be made between GFP/RFP signal level and IPTG concentration. When IPTG is present in system, then signal level of GFP/RFP should be very less, while when IPTG is absent or very less in system then GFP/RFP signal level should be high.
        
 # Task2
+I am more comfortable using R for data visualization and analysis, hence, did this task in R. Same algorithm can be used in python to get the same results
 2.
 3. I have upload jupyter notebook named as time traces. Plot has been made betweeen area vs frame and area vs time.
-4.
+4. In this, I faced difficulty in finding peak's coordinate.
 5.
 6. 
+Based on the plots obtained, it is clear that Jellyfish sleep. Taking plot 1 as an example, we can see that during daytime continous pulses were there, but during night time gaps in pulsation was observed which shows quiescence stage. Also, number of pulses were more
+during daytime as compared to nighttime . Similaraly, these results can be extrapolated for other jellyfish.
+
+
