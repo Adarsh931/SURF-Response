@@ -24,3 +24,8 @@ So, a band of size around 700 nt will be observed in agarose gel in case of cell
   iv)  A plot should be made between GFP/RFP signal level and IPTG concentration. When IPTG is present in system, then signal level of GFP/RFP should be very less, while when IPTG is absent or very less in system then GFP/RFP signal level should be high.
        
 # Task2
+2.
+3. I have upload jupyter notebook named as time traces. Plot has been made betweeen area vs frame and area vs time.
+4.
+5.
+6. 
