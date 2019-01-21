@@ -44,7 +44,7 @@ during daytime as compared to nighttime . Similaraly, these results can be extra
 Time trace followed Autoregression time series as there was seasonility and no trend was observed. Also, y(t+1) was found to depend on 
 previous values. Its algorithmic implementation is already shown in IPI_code.ipynb file. From the plot between y(t+1) and y(t) we can see that there is some correlatation (autocorrelation), hencce, autoregression.
 
-I also have uploaded all the results file in folder named Results.
+I have also uploaded all the results file in folder named Results.
 
 
 
