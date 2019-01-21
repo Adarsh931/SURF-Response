@@ -31,16 +31,16 @@ So, a band of size around 700 nt will be observed in agarose gel in case of cell
 # Task2
 I am more comfortable using R for data visualization and analysis, hence, did this task in R. Same algorithm can be used in python to get the same results
 
-2.
+2. Image segmentation techniques can be used to measure the areas at different times and thus time traces of the pulsatile activity. Edge detection using computer vision and other segmentation algorithms can be used, apart from that we can use various deep learning techniques. 
 
-3. I have upload jupyter notebook named as time traces. Plot has been made betweeen area vs frame and area vs time.
+3. I have upload jupyter notebook named as timeTraces. Plot has been made betweeen area vs frame and area vs time.
 
-4. In this, I faced difficulty in finding peak's coordinate.
+4. In this, I faced difficulty in finding peak's coordinate. 
 
 5.
 
 6. 
-Based on the plots obtained, it is clear that Jellyfish sleep. Taking plot 1 as an example, we can see that during daytime continous pulses were there, but during night time gaps in pulsation was observed which shows quiescence stage. Also, number of pulses were more
+Based on the plots obtained, it is clear that Jellyfish sleep. Taking plot 1 as an example, we can see continous pulses during daytime, but during night time gaps in pulsation were observed which shows quiescence stage. Also, number of pulses were more
 during daytime as compared to nighttime . Similaraly, these results can be extrapolated for other jellyfish.
 
 
