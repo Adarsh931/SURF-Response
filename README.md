@@ -1,5 +1,5 @@
 # Task1
-I have been given two plasmid sequence, so, using addgene plasmid map maker I can directly find out what are the components/gene is in it. From plasmid map, it was evident that it have 4 expressible gene and after doing BLAST following results were concluded. 
+I have been given two plasmid sequence, so, using SnapGene plasmid map maker I can directly find out what are the components/gene is in it. From plasmid map, it was evident that it have 4 expressible gene and after doing BLAST following results were concluded. 
 
 1. Interesting features/genes: - TEM-116 beta lactamase gene as a ampicillin resistant marker gene
                                - lactose operon repressor gene
@@ -39,10 +39,10 @@ I am more comfortable using R for data visualization and analysis, hence, did th
        IPI_code.ipynb is in repository.
        
 Based on the plots obtained, it is clear that Jellyfish sleep. Taking plot 1 as an example, we can see continous pulses during daytime, but during night time gaps in pulsation were observed which shows quiescence stage. Also, number of pulses were more
-during daytime as compared to nighttime . Similaraly, these results can be extrapolated for other jellyfishes.
+during daytime as compared to nighttime. Proof of observation was quite clearly from histogram. Similaraly, these results can be extrapolated for other jellyfishes.
 
-Time trace followed Autoregression time series as there was seasonility and no trend was observed. Also, y(t+1) was found to depend on 
-previous values. Its algorithmic implementation is already shown in IPI_code.ipynb file. From the plot between y(t+1) and y(t) we can see that there is some correlatation (autocorrelation), hencce, autoregression.
+Time trace followed Autoregression time series as there was seasonility and no trend. Also, y(t+1) was found to depend on 
+previous values. Its algorithmic implementation is already shown in IPI_code.ipynb file. From the plot between y(t+1) and y(t) we can see that there is some correlatation (autocorrelation), hence, autoregression.
 
 I have also uploaded all the results file in folder named Results.
 
